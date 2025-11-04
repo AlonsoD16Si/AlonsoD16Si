@@ -86,9 +86,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonsod16si&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alonsod16si&theme=tokyonight" alt="GitHub Streak"/>
-</p> -->
+</p> 
 
 ---
 
